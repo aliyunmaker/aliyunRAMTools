@@ -1,0 +1,6 @@
+${AnsiColor.GREEN}
+====================================================
+                       aliyunRAMTools  
+====================================================
+springboot verison: ${spring-boot.formatted-version}
+
