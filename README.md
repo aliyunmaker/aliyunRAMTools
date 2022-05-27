@@ -6,9 +6,9 @@ Aliyun_AccessKeySecret = 4CD07*******************
 ```
 
 #### 读取顺序
-- 运行时参数,示例: java -jar -DconfigPath=/home/config/aliyunRAMTools.properties aliyunRAMTools.jar  
-- aliyunRAMTools.jar同目录下的aliyunRAMTools.properties
-- 用户home/admin/config/目录下的aliyunRAMTools.properties
+1. 运行时参数,示例: java -jar -DconfigPath=/home/config/aliyunRAMTools.properties aliyunRAMTools.jar  
+2. aliyunRAMTools.jar同目录下的aliyunRAMTools.properties
+3. 用户home/admin/config/目录下的aliyunRAMTools.properties
 
 
 
